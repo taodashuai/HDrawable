@@ -2,4 +2,5 @@
 
 倾斜六边形
 
-![img](screenshot1.png)
+<img src="screenshot1.png" width=30% height=30% />
+
